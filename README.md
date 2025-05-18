@@ -1,1 +1,1 @@
-# СP_optimize_blasting
+# P_optimize_blasting
