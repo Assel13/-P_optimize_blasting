@@ -6,4 +6,4 @@
 - Экологические преимущества за счет уменьшения расхода взрывчатых веществ
 - Экономия до 6.5 млн долларов в год
 
-
+Streamlit App -> https://poptimizeblasting-ey6ruyhshictz4g4bemrbs.streamlit.app/
