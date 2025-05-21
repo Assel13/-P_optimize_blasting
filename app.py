@@ -4,9 +4,9 @@ import pandas as pd
 import joblib
 
 try:
-    model = joblib.load('C:/Users/HP/OneDrive/Documents/StreamlitProject/model.pkl')
-    scaler = joblib.load('C:/Users/HP/OneDrive/Documents/StreamlitProject/scaler.pkl')
-    feature_names = joblib.load('C:/Users/HP/OneDrive/Documents/StreamlitProject/feature_names.pkl')
+    model = joblib.load('model.pkl')
+    scaler = joblib.load('scaler.pkl')
+    feature_names = joblib.load('feature_names.pkl')
 except Exception as e:
     st.error(f"Ошибка при загрузке модели, скейлера или признаков: {str(e)}")
     st.stop()
